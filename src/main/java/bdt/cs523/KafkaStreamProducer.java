@@ -15,10 +15,10 @@ public class KafkaStreamProducer {
 		
 		final LinkedBlockingQueue<Status> queue = new LinkedBlockingQueue<Status>(1000);
 
-		String consumerKey = "flsfOlKjS9KR4xWwM8pztn4Um";
-		String consumerSecret = "eAnP1TF9CF0obix4XndikAbAYPBmTEwW358ueQeY6Mkav5NYZp"; 
-		String accessToken = "968452682775257088-kNLEtvuGX5MYGxo7oV99IyQtW0gDQ99"; 
-		String accessTokenSecret = "QT8MvNaS4rDQwuM2b1gpRkEz7GEO2Vxrn4cY9p8i3ybgu"; 
+		String consumerKey = "6pSRd9cRjnuQTln8luoPEQCXk";
+		String consumerSecret = "3xuPzzHWCPaS4otWwyEU9NYipJOOJSC3m64y6aGMxRYtZ9bATG";
+		String accessToken = "1273550213345611776-u3XVXA0ycqtVJoezdlWOHntTjQA38A";
+		String accessTokenSecret = "V616BccHgQZWkGqaVhreKx1n5HTqwa3tl8Ll5fkVZEFLw";
 
 		
 		String topicName = "warInNorthEthiopia";
